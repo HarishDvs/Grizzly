@@ -20,3 +20,5 @@ GZ-021 | 2026-06-12 | skills/grizzly-draft: four rails, two mandatory passes, pr
 GZ-022 | 2026-06-12 | skills/grizzly-audit: cold-read simulation, five maps, planting-failure comparison, beta-reader verdict
 GZ-023 | 2026-06-12 | skills/grizzly-review: five passes, four severity tiers, parallel-or-sequential fan-out, report format
 GZ-024 | 2026-06-12 | skills/grizzly-plan: two-function scenes, reader ledger, thread accounting, technique-deck integration (1-2 moves max)
+GZ-025 | 2026-06-12 | skills/grizzly-brainstorm: clarify-first, 2-3 costed directions, canon anchoring, four direction shapes
+GZ-026 | 2026-06-12 | skills/grizzly-voice: derive/re-derive with drift report, growth-vs-drift distinction, no AI-assisted samples (P2 complete)

@@ -72,10 +72,10 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-024 `skills/grizzly-plan/SKILL.md`: arc/chapter planning; every scene needs
       plot function + character function; gap detection; POV selection reasoning;
       technique-deck integration (propose 1-2 named moves per arc, not a list)
-- [ ] GZ-025 `skills/grizzly-brainstorm/SKILL.md`: clarify before listing; 2-3
+- [x] GZ-025 `skills/grizzly-brainstorm/SKILL.md`: clarify before listing; 2-3
       distinct directions; anchor in existing canon via codex; continuity-break
       flagging
-- [ ] GZ-026 `skills/grizzly-voice/SKILL.md`: re-derive or update VOICE.md as the
+- [x] GZ-026 `skills/grizzly-voice/SKILL.md`: re-derive or update VOICE.md as the
       author's style evolves; drift report (what changed since last derivation)
 
 ## P3 — Technique Deck, Packs, Polish
