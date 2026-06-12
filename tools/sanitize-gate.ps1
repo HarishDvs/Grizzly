@@ -18,7 +18,9 @@ $files = git ls-files | Where-Object { Test-Path $_ -PathType Leaf }
 $leak = $false
 
 foreach ($t in $grepTerms) {
-    $hits = Select-String -Path $files -Pattern $t -SimpleMatch
+    # word-boundary match so a short name does not fire inside an unrelated word
+    $pattern = '\b' + [regex]::Escape($t) + '\b'
+    $hits = Select-String -Path $files -Pattern $pattern
     if ($hits) {
         $leak = $true
         $hits | ForEach-Object { Write-Host "LEAK: $($_.Path):$($_.LineNumber) contains '$t'" }
