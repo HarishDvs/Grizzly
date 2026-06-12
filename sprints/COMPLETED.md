@@ -26,3 +26,4 @@ GZ-031 | 2026-06-12 | packs/progression-fantasy: promise, pacing norms, system c
 GZ-032 | 2026-06-12 | packs/webnovel-serial: format contract, 5-type pull taxonomy, cadence norms, memory load, failure modes
 GZ-033 | 2026-06-12 | packs/romance: HEA/HFN contract, 6 beats, POV + heat conventions, trope ledger, failure modes
 GZ-034 | 2026-06-12 | docs/SPEC.md: full format spec, precedence chain, 5 conduct invariants any adapter must keep
+GZ-035 | 2026-06-12 | README full version (thesis, table, quickstart, three layers) + CONTRIBUTING (rails non-negotiable, pack/deck/adapter rules)

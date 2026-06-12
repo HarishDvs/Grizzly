@@ -96,7 +96,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-034 `docs/SPEC.md`: tool-agnostic spec for state files + codex format +
       deck/pack format; explicit statement that `skills/` is one adapter and the
       data layer is harness-independent
-- [ ] GZ-035 README (thesis up front, quickstart, example-codex walkthrough) +
+- [x] GZ-035 README (thesis up front, quickstart, example-codex walkthrough) +
       CONTRIBUTING.md (how to submit packs/decks; the rails are non-negotiable)
 - [ ] GZ-036 Dogfood pass: run the full suite on the private reference manuscript
       locally; log gaps and friction back into this TODO (findings stay local,
