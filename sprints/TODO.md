@@ -57,7 +57,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-020 `skills/grizzly-edit/SKILL.md`: diagnosis-first; named findings with
       line refs; surgical fixes side by side; prefer cutting to rephrasing; second
       pass (self-lint) + delivery pass mandatory; preserve-lines untouchable
-- [ ] GZ-021 `skills/grizzly-draft/SKILL.md`: smallest coherent unit; stay inside
+- [x] GZ-021 `skills/grizzly-draft/SKILL.md`: smallest coherent unit; stay inside
       the author's material; anchor on VOICE.md + a nearby passage; second pass +
       delivery pass; proposal-not-delivery presentation
 - [ ] GZ-022 `skills/grizzly-audit/SKILL.md`: cold first-read simulation; reports

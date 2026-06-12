@@ -16,3 +16,4 @@ GZ-011 | 2026-06-12 | skills/grizzly-cards: two laws, create/update flows, drift
 GZ-012 | 2026-06-12 | bootstrap mode in grizzly-cards: one-chapter-at-a-time passes, checkpoints every 10, conflict report (same file as GZ-011, one commit)
 GZ-013 | 2026-06-12 | docs/example-codex: Treasure Island Part One demo (index, arc card, Ch1+Ch2 cards, Billy Bones card) (P1 complete)
 GZ-020 | 2026-06-12 | skills/grizzly-edit: diagnosis-first surgical editing, delivery findings reported first, both passes mandatory
+GZ-021 | 2026-06-12 | skills/grizzly-draft: four rails, two mandatory passes, proposal presentation
