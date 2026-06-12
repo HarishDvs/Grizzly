@@ -10,13 +10,13 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-002 Sanitization gate: populate `sprints/sanitize-list.local.md` with all
       private-novel terms (names, places, factions, system words, title words);
       verify the gate script from sprint-agent.md runs clean on the scaffold
-- [ ] GZ-003 Extract universal core from the private skill backup
+- [x] GZ-003 Extract universal core from the private skill backup
       (`~/.claude/skill-backups/grizz-2026-06-12/SKILL.md`): mode rails, blacklist,
       delivery pass, atmosphere/dread toolkit. Re-invent every example so zero
       world-specific content survives (the atmosphere section currently uses
       private world elements as examples; the TECHNIQUES are universal, the
       examples are not). Output feeds GZ-004/005/007.
-- [ ] GZ-004 `decks/blacklist.md`: AI-artifact blacklist with genre-neutral invented
+- [x] GZ-004 `decks/blacklist.md`: AI-artifact blacklist with genre-neutral invented
       examples (punctuation tells, cinematic filler, exhausted metaphors,
       rule-of-three, negative parallelism + cousins, padding tells, emotion nouns)
 - [ ] GZ-005 `decks/delivery-pass.md`: the six delivery checks + the purple-drift vs
