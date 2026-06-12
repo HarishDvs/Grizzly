@@ -25,3 +25,4 @@ GZ-026 | 2026-06-12 | skills/grizzly-voice: derive/re-derive with drift report, 
 GZ-031 | 2026-06-12 | packs/progression-fantasy: promise, pacing norms, system clarity rules, trope ledger, 5 failure modes
 GZ-032 | 2026-06-12 | packs/webnovel-serial: format contract, 5-type pull taxonomy, cadence norms, memory load, failure modes
 GZ-033 | 2026-06-12 | packs/romance: HEA/HFN contract, 6 beats, POV + heat conventions, trope ledger, failure modes
+GZ-034 | 2026-06-12 | docs/SPEC.md: full format spec, precedence chain, 5 conduct invariants any adapter must keep
