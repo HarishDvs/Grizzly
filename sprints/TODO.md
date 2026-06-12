@@ -91,7 +91,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       payoff cadence, trope ledger, failure modes
 - [x] GZ-032 `packs/webnovel-serial/`: serialization physics (per-chapter hooks,
       arc length, cliff cadence, reader-retention beats) vs trad act structure
-- [ ] GZ-033 `packs/romance/`: beat conventions, promise/payoff structure, heat
+- [x] GZ-033 `packs/romance/`: beat conventions, promise/payoff structure, heat
       level handling, trope ledger
 - [ ] GZ-034 `docs/SPEC.md`: tool-agnostic spec for state files + codex format +
       deck/pack format; explicit statement that `skills/` is one adapter and the
