@@ -73,14 +73,12 @@ The private reference manuscript must never enter this repo. The term list lives
 `sprints/sanitize-list.local.md` (gitignored, local only, never committed).
 
 ```powershell
-# from repo root; exits noisy if any private term appears in tracked files
-$terms = Get-Content sprints/sanitize-list.local.md | Where-Object { $_ -and $_ -notmatch '^#' }
-$files = git ls-files
-foreach ($t in $terms) { $hits = $files | ForEach-Object { Select-String -Path $_ -Pattern $t -SimpleMatch } ; if ($hits) { $hits } }
+# from repo root
+powershell -File tools/sanitize-gate.ps1
 ```
 
-Zero hits required. Short/common terms in the list (flagged with `# manual`) are
-checked by eye instead of grep.
+Zero hits required (exit 0). Short/common terms in the list (flagged with `# manual`)
+are excluded from grep and printed for an eye check instead.
 
 ---
 

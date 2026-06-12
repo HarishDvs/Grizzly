@@ -7,7 +7,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-001 Repo scaffold: folder tree (`skills/`, `packs/`, `templates/`, `decks/`,
       `docs/`, `sprints/`), `.gitignore` (ignores `*.local.md`), MIT `LICENSE`,
       README stub pointing at PLAN.md
-- [ ] GZ-002 Sanitization gate: populate `sprints/sanitize-list.local.md` with all
+- [x] GZ-002 Sanitization gate: populate `sprints/sanitize-list.local.md` with all
       private-novel terms (names, places, factions, system words, title words);
       verify the gate script from sprint-agent.md runs clean on the scaffold
 - [ ] GZ-003 Extract universal core from the private skill backup
