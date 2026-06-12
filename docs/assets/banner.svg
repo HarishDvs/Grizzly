@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Grizzly. The author keeps the pen.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171310"/>
+      <stop offset="1" stop-color="#241c15"/>
+    </linearGradient>
+    <linearGradient id="claw" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8a5a2b"/>
+      <stop offset="1" stop-color="#5c3d1e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+
+  <!-- claw strokes, background right -->
+  <g opacity="0.5">
+    <path d="M 980 30 C 1010 110, 1018 190, 1000 274 L 1028 274 C 1048 188, 1040 104, 1012 26 Z" fill="url(#claw)"/>
+    <path d="M 1064 18 C 1098 104, 1106 196, 1086 282 L 1116 282 C 1138 192, 1128 96, 1098 14 Z" fill="url(#claw)"/>
+    <path d="M 1150 30 C 1180 110, 1188 190, 1170 274 L 1198 274 C 1218 188, 1210 104, 1182 26 Z" fill="url(#claw)"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="84" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="104" font-weight="700" letter-spacing="6" fill="#e8ddcf">GRIZZLY</text>
+
+  <!-- rule -->
+  <rect x="88" y="186" width="560" height="3" fill="#8a5a2b"/>
+
+  <!-- tagline -->
+  <text x="88" y="232" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#b9a98f">The author keeps the pen.</text>
+
+  <!-- sub -->
+  <text x="88" y="268" font-family="Verdana, Arial, sans-serif" font-size="16" letter-spacing="1" fill="#7d6f5c">AN OPEN EDITOR-IN-A-SKILL FOR FICTION WRITERS</text>
+</svg>
