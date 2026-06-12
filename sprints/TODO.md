@@ -19,7 +19,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-004 `decks/blacklist.md`: AI-artifact blacklist with genre-neutral invented
       examples (punctuation tells, cinematic filler, exhausted metaphors,
       rule-of-three, negative parallelism + cousins, padding tells, emotion nouns)
-- [ ] GZ-005 `decks/delivery-pass.md`: the six delivery checks + the purple-drift vs
+- [x] GZ-005 `decks/delivery-pass.md`: the six delivery checks + the purple-drift vs
       flat-drift reconciliation; benchmark-comparison method described
       genre-neutrally (user supplies their own benchmark titles in NOVEL.md)
 - [ ] GZ-006 `decks/dread-toolkit.md`: atmosphere techniques abstracted (adaptation
