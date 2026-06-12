@@ -12,3 +12,5 @@ GZ-007 | 2026-06-12 | templates: NOVEL.md (incl. benchmarks + format fields), VO
 GZ-008 | 2026-06-12 | skills/grizzly: core skill (one rule, load order, mode routing table, 8 shared rails, tone)
 GZ-009 | 2026-06-12 | skills/grizzly-init: 7-step wizard incl. voice derivation procedure (P0 complete)
 GZ-010 | 2026-06-12 | templates/codex: index, chapter, arc, character cards; extractive rule + drift rule + preserve registry in-template
+GZ-011 | 2026-06-12 | skills/grizzly-cards: two laws, create/update flows, drift rule, thread-debt report
+GZ-012 | 2026-06-12 | bootstrap mode in grizzly-cards: one-chapter-at-a-time passes, checkpoints every 10, conflict report (same file as GZ-011, one commit)

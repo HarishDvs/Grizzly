@@ -43,9 +43,9 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-010 `templates/codex/`: chapter card, arc card, character card, `_Index.md`
       templates; extractive-only rule; thread open/pay linking; preserve-line
       registry; status field (drafted/revised); frontmatter spec
-- [ ] GZ-011 `skills/grizzly-cards/SKILL.md`: create + update flows; the drift rule
+- [x] GZ-011 `skills/grizzly-cards/SKILL.md`: create + update flows; the drift rule
       (chapter edit → card update in the same session); index maintenance
-- [ ] GZ-012 grizzly-cards bootstrap mode: card an existing manuscript
+- [x] GZ-012 grizzly-cards bootstrap mode: card an existing manuscript
       chapter-by-chapter; batching guidance for long serials; token-economy notes
       (cards make a 200-chapter serial cost the same to work on as a novella)
 - [ ] GZ-013 `docs/example-codex/`: demo codex built from a public-domain novel
