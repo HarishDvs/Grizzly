@@ -48,7 +48,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-012 grizzly-cards bootstrap mode: card an existing manuscript
       chapter-by-chapter; batching guidance for long serials; token-economy notes
       (cards make a 200-chapter serial cost the same to work on as a novella)
-- [ ] GZ-013 `docs/example-codex/`: demo codex built from a public-domain novel
+- [x] GZ-013 `docs/example-codex/`: demo codex built from a public-domain novel
       (e.g. Treasure Island, first 6 chapters); doubles as documentation and the
       README walkthrough material
 
