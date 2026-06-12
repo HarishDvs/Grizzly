@@ -69,7 +69,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       delivery); severity tiers blocker/major/minor/nit; honesty calibration (no
       praise padding); optional parallel sub-agent fan-out where the harness
       supports it, sequential fallback where it does not
-- [ ] GZ-024 `skills/grizzly-plan/SKILL.md`: arc/chapter planning; every scene needs
+- [x] GZ-024 `skills/grizzly-plan/SKILL.md`: arc/chapter planning; every scene needs
       plot function + character function; gap detection; POV selection reasoning;
       technique-deck integration (propose 1-2 named moves per arc, not a list)
 - [ ] GZ-025 `skills/grizzly-brainstorm/SKILL.md`: clarify before listing; 2-3

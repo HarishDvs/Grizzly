@@ -19,3 +19,4 @@ GZ-020 | 2026-06-12 | skills/grizzly-edit: diagnosis-first surgical editing, del
 GZ-021 | 2026-06-12 | skills/grizzly-draft: four rails, two mandatory passes, proposal presentation
 GZ-022 | 2026-06-12 | skills/grizzly-audit: cold-read simulation, five maps, planting-failure comparison, beta-reader verdict
 GZ-023 | 2026-06-12 | skills/grizzly-review: five passes, four severity tiers, parallel-or-sequential fan-out, report format
+GZ-024 | 2026-06-12 | skills/grizzly-plan: two-function scenes, reader ledger, thread accounting, technique-deck integration (1-2 moves max)
