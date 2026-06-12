@@ -80,7 +80,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 
 ## P3 — Technique Deck, Packs, Polish
 
-- [ ] GZ-030 Technique deck research pass: webnovel/LN craft discussion (Royal Road
+- [x] GZ-030 Technique deck research pass: webnovel/LN craft discussion (Royal Road
       forums, progression-fantasy threads, fan analyses of pacing and dread in
       benchmark serials), classic structure craft; distill into
       `decks/techniques.md`: 15-25 named moves, each with mechanism, when-to-use,
@@ -98,9 +98,10 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       data layer is harness-independent
 - [x] GZ-035 README (thesis up front, quickstart, example-codex walkthrough) +
       CONTRIBUTING.md (how to submit packs/decks; the rails are non-negotiable)
-- [ ] GZ-036 Dogfood pass: run the full suite on the private reference manuscript
-      locally; log gaps and friction back into this TODO (findings stay local,
-      never committed)
+- [x] GZ-036 Dogfood pass (first round): ran grizzly-audit cold read on reference
+      manuscript Ch 1; found a blocker-grade POV finding the five maps had no home
+      for → added check 6 (belief check) to grizzly-audit. Findings local only.
+      Further rounds (edit/draft/review modes on real chapters) → GZ-044
 - [ ] GZ-037 Init git repo, run sanitize gate on full tree, first push to GitHub
 
 ## Later / Ideas (unprioritized)
@@ -109,3 +110,5 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [ ] GZ-041 Revision log per chapter (lightweight history inside cards)
 - [ ] GZ-042 Thread-debt report: all opened-unpaid threads across the codex
 - [ ] GZ-043 Cross-harness adapters beyond Claude Code skills
+- [ ] GZ-044 Dogfood rounds 2+: exercise edit, draft, review, plan modes on real
+      manuscript chapters; log friction here

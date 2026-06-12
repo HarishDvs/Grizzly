@@ -27,3 +27,5 @@ GZ-032 | 2026-06-12 | packs/webnovel-serial: format contract, 5-type pull taxono
 GZ-033 | 2026-06-12 | packs/romance: HEA/HFN contract, 6 beats, POV + heat conventions, trope ledger, failure modes
 GZ-034 | 2026-06-12 | docs/SPEC.md: full format spec, precedence chain, 5 conduct invariants any adapter must keep
 GZ-035 | 2026-06-12 | README full version (thesis, table, quickstart, three layers) + CONTRIBUTING (rails non-negotiable, pack/deck/adapter rules)
+GZ-030 | 2026-06-12 | decks/techniques.md: 21 sourced moves in 4 sections (hooks, tension engines, progression, pacing), via web research agent + perspective fracture added
+GZ-036 | 2026-06-12 | dogfood round 1: audit cold-read on reference Ch 1 (findings local); skill gap found and fixed (belief check added to grizzly-audit)
