@@ -89,7 +89,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       ladders, information debt, interlude POVs, chapter-end hook taxonomy)
 - [x] GZ-031 `packs/progression-fantasy/`: reader promises, power-system pacing,
       payoff cadence, trope ledger, failure modes
-- [ ] GZ-032 `packs/webnovel-serial/`: serialization physics (per-chapter hooks,
+- [x] GZ-032 `packs/webnovel-serial/`: serialization physics (per-chapter hooks,
       arc length, cliff cadence, reader-retention beats) vs trad act structure
 - [ ] GZ-033 `packs/romance/`: beat conventions, promise/payoff structure, heat
       level handling, trope ledger

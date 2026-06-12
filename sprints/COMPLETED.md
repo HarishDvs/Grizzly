@@ -23,3 +23,4 @@ GZ-024 | 2026-06-12 | skills/grizzly-plan: two-function scenes, reader ledger, t
 GZ-025 | 2026-06-12 | skills/grizzly-brainstorm: clarify-first, 2-3 costed directions, canon anchoring, four direction shapes
 GZ-026 | 2026-06-12 | skills/grizzly-voice: derive/re-derive with drift report, growth-vs-drift distinction, no AI-assisted samples (P2 complete)
 GZ-031 | 2026-06-12 | packs/progression-fantasy: promise, pacing norms, system clarity rules, trope ledger, 5 failure modes
+GZ-032 | 2026-06-12 | packs/webnovel-serial: format contract, 5-type pull taxonomy, cadence norms, memory load, failure modes
