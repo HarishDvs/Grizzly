@@ -17,3 +17,4 @@ GZ-012 | 2026-06-12 | bootstrap mode in grizzly-cards: one-chapter-at-a-time pas
 GZ-013 | 2026-06-12 | docs/example-codex: Treasure Island Part One demo (index, arc card, Ch1+Ch2 cards, Billy Bones card) (P1 complete)
 GZ-020 | 2026-06-12 | skills/grizzly-edit: diagnosis-first surgical editing, delivery findings reported first, both passes mandatory
 GZ-021 | 2026-06-12 | skills/grizzly-draft: four rails, two mandatory passes, proposal presentation
+GZ-022 | 2026-06-12 | skills/grizzly-audit: cold-read simulation, five maps, planting-failure comparison, beta-reader verdict

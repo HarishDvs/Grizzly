@@ -60,7 +60,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-021 `skills/grizzly-draft/SKILL.md`: smallest coherent unit; stay inside
       the author's material; anchor on VOICE.md + a nearby passage; second pass +
       delivery pass; proposal-not-delivery presentation
-- [ ] GZ-022 `skills/grizzly-audit/SKILL.md`: cold first-read simulation; reports
+- [x] GZ-022 `skills/grizzly-audit/SKILL.md`: cold first-read simulation; reports
       experience not errors: dread map, safety map, character-visualization check,
       prediction check (confirmed boringly vs broken), hook check; output format
       with chapter-position references
