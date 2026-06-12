@@ -37,6 +37,12 @@ Every technique entry needs all five: **name, mechanism (cause → reader effect
 when to use, example (one line, named published work or invented), failure mode.**
 Entries that are vibes without mechanism get cut.
 
+When distilling from craft blogs, essays, or forum advice: take the mechanism,
+rewrite it entirely in your own words, and keep the attribution. Ideas and
+techniques are free to build on; the source's text is not. Never reproduce a
+source's wording beyond a few words, and never paste passages from any
+copyrighted novel as examples (cite the work in one factual line instead).
+
 ## Adapters
 
 The data layer is the spec (`docs/SPEC.md`); `skills/` is the Claude Code adapter.
