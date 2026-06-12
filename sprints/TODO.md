@@ -87,7 +87,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       benchmark example, failure mode (includes: false peace, perspective fracture
       with omissions/contradictions, early kill vs normalcy bait, escalation
       ladders, information debt, interlude POVs, chapter-end hook taxonomy)
-- [ ] GZ-031 `packs/progression-fantasy/`: reader promises, power-system pacing,
+- [x] GZ-031 `packs/progression-fantasy/`: reader promises, power-system pacing,
       payoff cadence, trope ledger, failure modes
 - [ ] GZ-032 `packs/webnovel-serial/`: serialization physics (per-chapter hooks,
       arc length, cliff cadence, reader-retention beats) vs trad act structure
