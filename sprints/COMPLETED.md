@@ -8,3 +8,4 @@ GZ-003 | 2026-06-12 | universal core extracted in-session from private skill (so
 GZ-004 | 2026-06-12 | decks/blacklist.md: 9 tell families, all examples invented, application notes
 GZ-005 | 2026-06-12 | decks/delivery-pass.md: benchmark method (titles from NOVEL.md), six checks, reconciliation, craft principles
 GZ-006 | 2026-06-12 | decks/dread-toolkit.md: 12 techniques, all world-specific examples replaced with invented ones
+GZ-007 | 2026-06-12 | templates: NOVEL.md (incl. benchmarks + format fields), VOICE.md (derivation spec), STANDARDS.md (9 seeded defaults + preserve policy)

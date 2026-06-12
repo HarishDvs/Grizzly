@@ -26,7 +26,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       gap, negative space, scale against the body, tonal whiplash, grimness through
       systems, survival rules as horror, attrition, information asymmetry,
       environmental pressure, earned-warmth specificity), all examples invented
-- [ ] GZ-007 `templates/`: NOVEL.md, VOICE.md, STANDARDS.md templates with field
+- [x] GZ-007 `templates/`: NOVEL.md, VOICE.md, STANDARDS.md templates with field
       documentation; STANDARDS.md ships seeded with sensible defaults the author
       can edit (no emotion labeling, no contrast-negation, etc.)
 - [ ] GZ-008 `skills/grizzly/SKILL.md`: core orientation; load order (NOVEL →
