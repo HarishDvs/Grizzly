@@ -16,7 +16,7 @@ Read the chapter start to finish AS a first-time reader: no codex first, no
 standards in hand, no author goals. React, then analyze. (Load the codex only
 afterward, for the comparison step.)
 
-Report these five maps, each with chapter-position references ("opening", "the
+Report these six checks, each with chapter-position references ("opening", "the
 kitchen scene", "last page"):
 
 ### 1. Dread map
@@ -46,6 +46,14 @@ it as such.
 What, if anything, pulls to the next chapter? Is it positioned at the end or buried
 mid-chapter? For serials (per NOVEL.md format), a chapter without an end-positioned
 pull is a retention leak; say so.
+
+### 6. Belief check
+Did anything eject you from the fiction? Two ejector classes belong here even
+though they look like "errors": POV breaks (the narration shows what the POV
+character cannot perceive: sights through a closed door, another character's
+interiority) and syntax garble severe enough to force a re-read. Both are
+experience findings; a reader who stops believing or stops parsing has stopped
+reading. Light typos stay out of the audit (route to review).
 
 ## After the cold read
 
