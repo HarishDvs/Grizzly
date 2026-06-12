@@ -10,3 +10,4 @@ GZ-005 | 2026-06-12 | decks/delivery-pass.md: benchmark method (titles from NOVE
 GZ-006 | 2026-06-12 | decks/dread-toolkit.md: 12 techniques, all world-specific examples replaced with invented ones
 GZ-007 | 2026-06-12 | templates: NOVEL.md (incl. benchmarks + format fields), VOICE.md (derivation spec), STANDARDS.md (9 seeded defaults + preserve policy)
 GZ-008 | 2026-06-12 | skills/grizzly: core skill (one rule, load order, mode routing table, 8 shared rails, tone)
+GZ-009 | 2026-06-12 | skills/grizzly-init: 7-step wizard incl. voice derivation procedure (P0 complete)

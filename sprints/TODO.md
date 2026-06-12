@@ -32,7 +32,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 - [x] GZ-008 `skills/grizzly/SKILL.md`: core orientation; load order (NOVEL →
       VOICE → STANDARDS → codex index → cards on demand); mode routing; the
       author-keeps-the-pen rails; tone & collaboration rules
-- [ ] GZ-009 `skills/grizzly-init/SKILL.md`: setup wizard; genre/subgenre + serial
+- [x] GZ-009 `skills/grizzly-init/SKILL.md`: setup wizard; genre/subgenre + serial
       vs trad interview; voice-sample analysis procedure (derive VOICE.md from 2-3
       passages of the author's writing: sentence-length distribution, dialogue
       load, how violence/emotion enters, narrator prohibitions, register); writes
