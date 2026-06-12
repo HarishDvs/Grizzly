@@ -1,0 +1,20 @@
+{
+  "name": "grizzly",
+  "description": "An open editor-in-a-skill for fiction writers. Diagnosis, structure, and memory. The author keeps the pen.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Haris",
+    "url": "https://github.com/HarishDvs"
+  },
+  "homepage": "https://github.com/HarishDvs/Grizzly",
+  "repository": "https://github.com/HarishDvs/Grizzly",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "fiction",
+    "novel",
+    "editing",
+    "webnovel",
+    "creative-writing"
+  ]
+}

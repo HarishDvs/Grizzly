@@ -101,12 +101,27 @@ differently:
 | `docs/SPEC.md` | The tool-agnostic format spec |
 | `docs/example-codex/` | A working codex built from *Treasure Island* |
 
-## Quickstart (Claude Code)
+## Install
 
-1. Copy the folders under `skills/` into your project's `.claude/skills/` (or
+**Option A — as a Claude Code plugin (recommended):**
+
+```
+/plugin marketplace add HarishDvs/Grizzly
+/plugin install grizzly@grizzly
+```
+
+This installs the skills and ships the decks, templates, and packs alongside them.
+
+**Option B — manual:**
+
+1. Grab the latest archive from the
+   [Releases page](https://github.com/HarishDvs/Grizzly/releases) (or clone the
+   repo) and put it next to your manuscript.
+2. Copy the folders under `skills/` into your project's `.claude/skills/` (or
    your user-level skills directory).
-2. Keep `decks/`, `templates/`, and `packs/` somewhere the assistant can read
-   (simplest: clone the whole repo next to your manuscript).
+
+**Then, either way:**
+
 3. Say **"set up grizzly for my novel"**. The init wizard interviews you, derives
    your voice spec from your own writing samples, and scaffolds the codex.
 4. Have chapters already? Ask for a **codex bootstrap**; it cards your manuscript
