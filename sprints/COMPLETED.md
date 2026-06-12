@@ -18,3 +18,4 @@ GZ-013 | 2026-06-12 | docs/example-codex: Treasure Island Part One demo (index, 
 GZ-020 | 2026-06-12 | skills/grizzly-edit: diagnosis-first surgical editing, delivery findings reported first, both passes mandatory
 GZ-021 | 2026-06-12 | skills/grizzly-draft: four rails, two mandatory passes, proposal presentation
 GZ-022 | 2026-06-12 | skills/grizzly-audit: cold-read simulation, five maps, planting-failure comparison, beta-reader verdict
+GZ-023 | 2026-06-12 | skills/grizzly-review: five passes, four severity tiers, parallel-or-sequential fan-out, report format

@@ -64,7 +64,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       experience not errors: dread map, safety map, character-visualization check,
       prediction check (confirmed boringly vs broken), hook check; output format
       with chapter-position references
-- [ ] GZ-023 `skills/grizzly-review/SKILL.md`: multi-pass review (continuity vs
+- [x] GZ-023 `skills/grizzly-review/SKILL.md`: multi-pass review (continuity vs
       codex, pacing, voice drift vs VOICE.md, hygiene vs blacklist+STANDARDS,
       delivery); severity tiers blocker/major/minor/nit; honesty calibration (no
       praise padding); optional parallel sub-agent fan-out where the harness
