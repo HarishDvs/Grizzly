@@ -102,7 +102,8 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
       manuscript Ch 1; found a blocker-grade POV finding the five maps had no home
       for → added check 6 (belief check) to grizzly-audit. Findings local only.
       Further rounds (edit/draft/review modes on real chapters) → GZ-044
-- [ ] GZ-037 Init git repo, run sanitize gate on full tree, first push to GitHub
+- [x] GZ-037 Init git repo, run sanitize gate on full tree, first push to GitHub
+      (pushed PRIVATE to github.com/HarishDvs/Grizzly; author flips public when ready)
 
 ## Later / Ideas (unprioritized)
 

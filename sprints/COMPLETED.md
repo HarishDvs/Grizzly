@@ -29,3 +29,4 @@ GZ-034 | 2026-06-12 | docs/SPEC.md: full format spec, precedence chain, 5 conduc
 GZ-035 | 2026-06-12 | README full version (thesis, table, quickstart, three layers) + CONTRIBUTING (rails non-negotiable, pack/deck/adapter rules)
 GZ-030 | 2026-06-12 | decks/techniques.md: 21 sourced moves in 4 sections (hooks, tension engines, progression, pacing), via web research agent + perspective fracture added
 GZ-036 | 2026-06-12 | dogfood round 1: audit cold-read on reference Ch 1 (findings local); skill gap found and fixed (belief check added to grizzly-audit)
+GZ-037 | 2026-06-12 | gate clean on full tree; pushed private to github.com/HarishDvs/Grizzly (P3 complete except GZ-044 follow-up)
