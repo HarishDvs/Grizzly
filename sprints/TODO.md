@@ -40,7 +40,7 @@ Queue ordered P0 → P3. One commit per task. Sanitize gate on every review.
 
 ## P1 — The Codex (the moat)
 
-- [ ] GZ-010 `templates/codex/`: chapter card, arc card, character card, `_Index.md`
+- [x] GZ-010 `templates/codex/`: chapter card, arc card, character card, `_Index.md`
       templates; extractive-only rule; thread open/pay linking; preserve-line
       registry; status field (drafted/revised); frontmatter spec
 - [ ] GZ-011 `skills/grizzly-cards/SKILL.md`: create + update flows; the drift rule
