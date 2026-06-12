@@ -1,0 +1,8 @@
+# local-only files (sanitize list, private notes, dogfood findings)
+*.local.md
+*.local/
+
+# os / editor noise
+.DS_Store
+Thumbs.db
+.obsidian/
